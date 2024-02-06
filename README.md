@@ -1,6 +1,6 @@
-[UserFrontend
+UserFrontend
 This project was generated with Angular CLI version 16.2.2.
-](https://github.com/yadavhemant02/snabbtechfrontend/blob/master/README.md#userfrontend)
+(https://github.com/yadavhemant02/snabbtechfrontend/blob/master/README.md#userfrontend)
 Development server
 Run ng serve for a dev server. Navigate to http://localhost:4200/. The application will automatically reload if you change any of the source files.
 
